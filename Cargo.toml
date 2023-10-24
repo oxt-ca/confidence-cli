@@ -5,6 +5,7 @@ authors = ["stephen-cameron <stephen@oxt.ca>"]
 edition = "2021"
 description = "Calculate the confidence of a number a certain amount of sequences away"
 license = "MIT"
+repository = "https://github.com/oxt-ca/confidence-cli/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
